@@ -36,7 +36,7 @@ $c=random(1,30);
 $d=random(1,30);
 
 BEGIN_TEXT
-
+New Text Here.
 Sketch the following sets on a piece of paper and write them in interval notation. Enter the interval in the answer box.
 You may use "infinity" for \(\infty\) and "-infinity" for \(-\infty\). For example, you may write (-infinity, 5] for the
 interval \((-\infty,5]\).$BR 
